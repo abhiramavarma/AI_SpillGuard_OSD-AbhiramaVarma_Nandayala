@@ -4,6 +4,11 @@
 
 This project is a complete end-to-end deep learning solution for detecting and segmenting oil spills in satellite imagery. It uses a U-Net model built with PyTorch to perform semantic segmentation, classifying each pixel as either "oil spill" or "no spill". The trained model is deployed in a real-time, interactive web application using Streamlit.
 
+## 🚀 Live Demo
+
+Live - (https://abhioilspill.streamlit.app/)
+
+
 ## ✨ Key Features
 
 - **Accurate Segmentation:** Utilizes a U-Net architecture, achieving a high Intersection over Union (IoU) score of **0.88** on the test set.
@@ -12,9 +17,6 @@ This project is a complete end-to-end deep learning solution for detecting and s
 - **Visual Overlay:** The predicted spill mask is displayed as a semi-transparent, colored overlay on the original image for clear and intuitive visualization.
 - **Portable Model:** The final model is exported to the ONNX format, making it ready for cross-platform deployment (e.g., in the Unity engine).
 
-## 🚀 Live Demo
-
-Live - (https://abhioilspill.streamlit.app/)
 
 ## 📸 Screenshots
 
