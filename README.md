@@ -15,7 +15,6 @@ Live - (https://abhioilspill.streamlit.app/)
 - **Binary Classification:** Classifies images as either "Oil Spill Detected" or "No Spill Detected" based on the segmentation output.
 - **Interactive Web App:** A user-friendly Streamlit application allows users to upload their own images and receive instant predictions.
 - **Visual Overlay:** The predicted spill mask is displayed as a semi-transparent, colored overlay on the original image for clear and intuitive visualization.
-- **Portable Model:** The final model is exported to the ONNX format, making it ready for cross-platform deployment (e.g., in the Unity engine).
 
 
 ## 📸 Screenshots
