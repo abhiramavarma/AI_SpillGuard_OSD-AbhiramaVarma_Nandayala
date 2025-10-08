@@ -14,7 +14,7 @@ This project is a complete end-to-end deep learning solution for detecting and s
 
 ## 🚀 Live Demo
 
-[*(Link to your deployed Streamlit Community Cloud app would go here if you deployed it)*](https://abhioilspill.streamlit.app/)
+Live - (https://abhioilspill.streamlit.app/)
 
 ## 📸 Screenshots
 
@@ -22,12 +22,12 @@ Here is the model in action, correctly identifying a spill and clearing an image
 
 #### Positive Detection (Oil Spill)
 
-![Oil Spill Detected](**REPLACE_WITH_PATH/to/your/spill_detected_image.jpg**)
+![Oil Spill Detected](https://github.com/abhiramavarma/AI_SpillGuard_OSD-AbhiramaVarma_Nandayala/blob/main/images/oil_spill.png)
 *The model correctly identifies the oil spill and overlays the segmented area in red.*
 
 #### Negative Detection (No Spill)
 
-![No Spill Detected](**REPLACE_WITH_PATH/to/your/no_spill_image.jpg**)
+![No Spill Detected](https://github.com/abhiramavarma/AI_SpillGuard_OSD-AbhiramaVarma_Nandayala/blob/main/images/No_Oill_Spill.png)
 *The model correctly classifies this image as having no spill, ignoring challenging features like sun glint.*
 
 ## 💻 Technologies Used
