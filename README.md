@@ -50,7 +50,7 @@ To run this project on your local machine, please follow these steps:
 2.  **Create a virtual environment (recommended):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate  
     ```
 
 3.  **Install the required dependencies:**
@@ -64,4 +64,3 @@ To run this project on your local machine, please follow these steps:
     ```
     The application will open in your web browser.
 
-## 📁 Project Structure
