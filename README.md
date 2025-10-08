@@ -34,7 +34,7 @@ Here is the model in action, correctly identifying a spill and clearing an image
 
 - **AI & Deep Learning:** Python, PyTorch, U-Net, CNNs
 - **Data & Image Processing:** OpenCV, Albumentations, NumPy, Pillow
-- **Deployment & Web:** Streamlit, Streamlit Community Cloud, ONNX
+- **Deployment & Web:** Streamlit, Streamlit Community Cloud
 - **Development Tools:** Git & GitHub, Google Colab
 
 ## 🛠️ Setup and Local Installation
